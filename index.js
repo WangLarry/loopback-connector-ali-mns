@@ -5,4 +5,4 @@
 
 'use strict';
 
-module.exports = require('./lib/mqlight-connector.js');
+module.exports = require('./lib/mq-connector.js');
